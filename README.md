@@ -1,3 +1,5 @@
+| Ahmad Faiz Tajuddin | 5025231291 | 
+
 # Campus Library: Laravel CRUD project
 
 A library borrowing system built with Laravel 12 (MVC), Blade, Bootstrap 5 and MySQL/SQLite.
